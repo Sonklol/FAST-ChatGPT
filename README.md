@@ -3,3 +3,6 @@ FAST-ChatGPT is a tool that allows, through the OPENAI API (API KEY), to consult
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sonklol/FAST-ChatGPT/main/cap.png"/>
 </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sonklol/FAST-ChatGPT/main/cap2.png"/>
+</div>
